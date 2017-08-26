@@ -1,0 +1,49 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(122): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(122): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(122): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(123): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(123): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(123): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(124): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(124): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(124): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(125): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(125): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(125): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(126): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(126): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(126): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(127): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(127): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(127): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(224): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(243): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(244): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(180): warning C4101: 's_min': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(283): warning C4101: 'y_min_iteration': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(283): warning C4101: 'x_min_iteration': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(283): warning C4101: 'y_equal_iteration': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(283): warning C4101: 'x_equal_iteration': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(428): warning C4101: 'Eight1': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(428): warning C4101: 'Seven1': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(428): warning C4101: 'Six1': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(428): warning C4101: 'Ace1': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(428): warning C4101: 'Two1': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(428): warning C4101: 'Queen1': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(428): warning C4101: 'Jack1': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(428): warning C4101: 'King1': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(428): warning C4101: 'Four1': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(428): warning C4101: 'Five1': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(428): warning C4101: 'Three1': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(428): warning C4101: 'Ten1': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(428): warning C4101: 'Nine1': unreferenced local variable
+c:\users\user\documents\visual studio 2017\projects\projekt\projekt\source.cpp(551): warning C4715: 'pokerType': not all control paths return a value
+  Projekt.vcxproj -> C:\Users\user\documents\visual studio 2017\Projects\Projekt\x64\Debug\Projekt.exe
+  Projekt.vcxproj -> C:\Users\user\documents\visual studio 2017\Projects\Projekt\x64\Debug\Projekt.pdb (Partial PDB)
